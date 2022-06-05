@@ -25,6 +25,8 @@ I’m merely on energy-saving mode. Don’t say I’m lazy.
 
 &nbsp;&nbsp;
   
+  
+&nbsp;&nbsp;
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;"
  src="https://cdn.discordapp.com/attachments/393187986264555521/982872108478627860/Defalt_v2.webp">
   
