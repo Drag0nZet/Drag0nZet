@@ -23,7 +23,8 @@ I’m merely on energy-saving mode. Don’t say I’m lazy.
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
+&nbsp;&nbsp;
   
-  <img align="right" alt="Rafa-pic" height="200" style="border-radius:50px;"
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;"
  src="https://cdn.discordapp.com/attachments/393187986264555521/982872108478627860/Defalt_v2.webp">
   
